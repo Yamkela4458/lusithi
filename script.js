@@ -1,5 +1,5 @@
 // Typing Effect
-const text = "Digital Learning | Language Education | eLearning Development";
+const text = "Literacy Specialist | Language Education | Digital Literacy";
 const typingEl = document.getElementById("typing");
 
 let index = 0;
