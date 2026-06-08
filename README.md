@@ -1,6 +1,6 @@
 # Digital Learning Portfolio
 
-This portfolio showcases my work as a **Digital Learning Developer**, focusing on the design and development of learner-centred digital experiences that support education, research, and online learning environments.
+This portfolio showcases my work as a **Literacy Specialist**, focusing on the design and development of learner-centred digital experiences that support education, research, and online learning environments.
 
 ## Purpose
 The aim of this portfolio is to demonstrate how technology can be applied to enhance learning through clear interfaces, accessible design, and thoughtful interaction. The projects presented here reflect an emphasis on usability, instructional clarity, and practical learning support rather than purely visual or media-heavy solutions.
